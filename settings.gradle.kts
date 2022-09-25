@@ -1,2 +1,2 @@
-rootProject.name = "MojangAPI-Wrapper"
+rootProject.name = "MojangAPI"
 

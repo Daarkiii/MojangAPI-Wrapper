@@ -56,7 +56,7 @@ public class Profile {
     }
 
     /**
-     * Gets a {@link Set<Property>} Set with the loaded properties from the player
+     * Gets a {@link Set} Set with the loaded properties from the player
      *
      * @return the properties
      */

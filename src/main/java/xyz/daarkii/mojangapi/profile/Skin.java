@@ -58,7 +58,7 @@ public class Skin {
     }
 
     /**
-     * Gets an {@link Optional<URL>} object which holds the url to the players skin picture
+     * Gets an {@link Optional} object which holds the url to the players skin picture
      *
      * @return the optional can be null if the player never set a custom skin
      */
@@ -67,7 +67,7 @@ public class Skin {
     }
 
     /**
-     * Gets an {@link Optional<URL>} object which holds the url to the players cape picture
+     * Gets an {@link Optional} object which holds the url to the players cape picture
      *
      * @return the optional can be null if the player has not a cape
      */
